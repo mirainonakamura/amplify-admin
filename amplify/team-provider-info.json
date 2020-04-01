@@ -10,6 +10,14 @@
             "StackName": "amplify-otokul-admin-dev-184010",
             "StackId": "arn:aws:cloudformation:ap-northeast-1:736033501512:stack/amplify-otokul-admin-dev-184010/d3928850-73fc-11ea-ab16-0a6f9c86115e",
             "AmplifyAppId": "d342i67hczjwkl"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d342i67hczjwkl",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
