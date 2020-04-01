@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-otokul-admin-dev-184010-authRole",
+            "UnauthRoleArn": "arn:aws:iam::736033501512:role/amplify-otokul-admin-dev-184010-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::736033501512:role/amplify-otokul-admin-dev-184010-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-otokul-admin-dev-184010-deployment",
+            "UnauthRoleName": "amplify-otokul-admin-dev-184010-unauthRole",
+            "StackName": "amplify-otokul-admin-dev-184010",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:736033501512:stack/amplify-otokul-admin-dev-184010/d3928850-73fc-11ea-ab16-0a6f9c86115e",
+            "AmplifyAppId": "d342i67hczjwkl"
+        }
+    }
+}
